@@ -1,6 +1,10 @@
 version: "Apple Swift version 3.0.2 (swiftlang-800.0.63 clang-800.0.42.1)"
 options: "6714775e9b5e2c06514d95ce9a2251b1"
-build_time: [538838889, 205518000]
+build_time: [538855492, 134592000]
 inputs:
+  "/Users/mordi/Desktop/xCode/testU/testU/FileTableTableViewController.swift": [538855492, 0]
+  "/Users/mordi/Desktop/xCode/testU/testU/fileTableViewCell.swift": [538849644, 0]
+  "/Users/mordi/Desktop/xCode/testU/testU/FileModel.swift": [538847710, 0]
+  "/Users/mordi/Desktop/xCode/testU/testU/secondFileTableViewController.swift": [538854212, 0]
   "/Users/mordi/Desktop/xCode/testU/testU/ViewController.swift": [538838885, 0]
   "/Users/mordi/Desktop/xCode/testU/testU/AppDelegate.swift": [538838885, 0]
